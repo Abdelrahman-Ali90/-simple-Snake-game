@@ -23,15 +23,11 @@ A simple Snake game implemented in Python using the `curses` library. This proje
 - Python 3.x
 - `curses` library (usually available by default on most Unix-like systems)
 
-## Screenshots
-
-![Game Screenshot](C:\Users\Mr Ali\Pictures\New folder.png | width=400)
-
 
 
 ---
 
 **Disclaimer:** This project is created for educational purposes 
 
-Author: [Your Name](https://github.com/yourusername)
+
 Based on the tutorial by [Codezilla]([https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw](https://youtu.be/NFqjO5z1jx0)https://youtu.be/NFqjO5z1jx0)
